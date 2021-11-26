@@ -8,7 +8,7 @@
     'description': 'Accounting Reports For Odoo 15, Accounting Financial Reports, Odoo 15 Financial Reports',
     'summary': 'Accounting Reports For Odoo 15',
     'sequence': '10',
-    'author': 'Odoo Mates, Odoo SA',
+    'author': 'Odoo Mates, Odoo DBS SA',
     'license': 'LGPL-3',
     'company': 'Odoo Mates',
     'maintainer': 'Odoo Mates',
